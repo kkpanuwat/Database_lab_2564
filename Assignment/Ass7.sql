@@ -78,7 +78,4 @@ INSERT INTO register VALUES ('633020007-8',316201,2558,2,4.0);
 INSERT INTO register VALUES ('633020007-8',322212,2558,2,3.5);
 INSERT INTO register VALUES ('633020007-8',322336,2558,2,4.0);
 
-
-
-
-
+                                   
